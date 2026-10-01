@@ -16,7 +16,7 @@ Trabajo en control de calidad de planta y uso la programación para digitalizar 
 
 | Proyecto | Qué resuelve | Tecnología | Demo |
 |----------|--------------|------------|------|
-| [**controlLinea**](https://github.com/quality-systems/controlLinea) | Registro de las recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día exportable a PDF. Funciona sin señal y se instala en el celular. | HTML, CSS, JavaScript (PWA) | [Abrir](https://maxyroca7.github.io/controlLinea/) |
+| [**controlLinea**](https://github.com/quality-systems/controlLinea) | Registro de las recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día exportable a PDF. Funciona sin señal y se instala en el celular. | HTML, CSS, JavaScript (PWA) | [Abrir](https://quality-systems.github.io/controlLinea/) |
 | [**informeCalidad**](https://github.com/quality-systems/informeCalidad) | Armado del Informe de Estado de Planta desde el celular: se cargan desvíos con fotos y acción correctiva y se genera el PDF con el formato de la empresa. Opción de mejorar la redacción con IA. | HTML, CSS, JavaScript (PWA), jsPDF, Cloudflare Workers AI | [Abrir](https://quality-systems.github.io/informeCalidad/) |
 
 **En progreso**
