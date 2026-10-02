@@ -20,7 +20,7 @@ Trabajo en control de calidad de planta y uso la programación para digitalizar 
 | [**informeCalidad**](https://github.com/quality-systems/informeCalidad) | Armado del Informe de Estado de Planta desde el celular: se cargan desvíos con fotos y acción correctiva y se genera el PDF con el formato de la empresa. Opción de mejorar la redacción con IA. | HTML, CSS, JavaScript (PWA), jsPDF, Cloudflare Workers AI | [Abrir](https://quality-systems.github.io/informeCalidad/) |
 
 **En progreso**
-- Registro de No Conformidades en C (alta, listado, búsqueda por lote, modificación y KPIs). Proyecto de la materia Introducción al Desarrollo de Software.
+- Registro de No Conformidades  (alta, listado, búsqueda por lote, modificación y KPIs).
 
 ---
 
